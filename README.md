@@ -1,4 +1,4 @@
-# RocketSeat-beTheHero-React
+# Rocketseat-beTheHero-React
 Rocketseat's be the hero front-end, coded in react.
 
 ## Run instructions
@@ -14,6 +14,10 @@ npm run dev
 
 
 <br>
+
+# OR
+### Just access:
+https://be-the-hero-fawn.vercel.app/
 <br>
 <br>
 
